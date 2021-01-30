@@ -97,7 +97,8 @@ class App extends React.Component {
                     <Row className="margin">
                         <Col/>
                             <Col xs="12">
-                                <h1 style={{"marginBottom": "20px", textAlign: "center"}}>AnimeGAN.js: Photo Animation for Everyone <a href="https://github.com/TonyLianLong/AnimeGAN.js" style={{"fontSize": "12px"}}>View Source Code</a></h1>
+                                <h1 style={{"marginBottom": "20px", textAlign: "center"}}>AnimeGAN.js: 为每个人提供照片转动画服务 <a href="https://github.com/LiteraturePro/AnimeGAN.js" style={{"fontSize": "12px"}}>Github</a></h1>
+								<h3>NJUPT--Literature</h3>
                             </Col>
                         <Col/>
                     </Row>
@@ -177,7 +178,7 @@ class App extends React.Component {
                             <Col xs="12" md="12" lg="12" xl="10" style={{textAlign: "center", margin: "20px"}}>
                                 <p>If you are on a mobile device, long press to save the image.</p>
                                 <p>If you are on a desktop device, right click to save the image.</p>
-                                <p>If it looks good, you could <a href="https://github.com/TonyLianLong/AnimeGAN.js">give AnimeGAN.js a star <span role="img" aria-label="star">🌟</span> on Github</a>.</p>
+                                <p>If it looks good, you could <a href="https://github.com/LiteraturePro/AnimeGAN.js">give AnimeGAN.js a star <span role="img" aria-label="star">🌟</span> on Github</a>.</p>
                                 <p>AnimeGAN.js uses the trained model from AnimeGAN. If you are interested in how the TensorFlow version of AnimeGAN works, <a href="https://github.com/TachibanaYoshino/AnimeGAN">click here</a></p>
                                 <Button variant="primary" onClick={() => window.location.reload()}>Restart</Button>
                             </Col>
