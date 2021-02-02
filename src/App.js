@@ -98,7 +98,7 @@ class App extends React.Component {
                         <Col/>
                             <Col xs="12">
                                 <h1 style={{"marginBottom": "20px", textAlign: "center"}}>AnimeGAN.js: 为每个人提供照片转动画服务 <a href="https://github.com/LiteraturePro/AnimeGAN.js" style={{"fontSize": "12px"}}>Github</a></h1>
-								<h3 style={{"marginBottom": "20px", textAlign: "center"}}>NJUPT--Literature</h3>
+								
                             </Col>
                         <Col/>
                     </Row>
